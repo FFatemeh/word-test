@@ -2,4 +2,10 @@
 asdsagfdhsadgjhf
 vjbnk
 123456
+<<<<<<< HEAD
 dfnfjknjnbgnblrg
+=======
+dffwdfdf
+dvfkdvkgbh'rwlbgmw'el;gqerjgerqikgjfnegv
+fnvjf
+>>>>>>> 123/master
