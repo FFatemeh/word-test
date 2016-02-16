@@ -12,3 +12,4 @@ fnvjf
 test from here
 test from server
 test2 16022016
+FTDIBUS\COMPORT&VID_0403&PID_6015
